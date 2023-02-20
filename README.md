@@ -12,7 +12,7 @@
 Example:
 ```
 git remote set-url origin git@github.com:School-Of-Tech-Futures-ATC/testing-workflow.git
-
+```
 8. ```git push```
 9. Create a new branch in GitHub called **main** and base it off **develop** branch
 10. In local repo, go into ***app.js*** file (on develop branch) and break the code somehow!
