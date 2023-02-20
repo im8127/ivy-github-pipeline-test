@@ -1,7 +1,7 @@
 # github-actions-demo
 ## A repo to demonstrate the CI (Continous Integration) process as part of School of Tech.
 
-1. Clone the repo 
+1. Clone the repo: ```git@github.com:School-Of-Tech-Futures-ATC/github-actions-demo.git```
 2. ```npm install```
 3. ```npm test```
 4. All tests should pass (total 5)
