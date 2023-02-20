@@ -1,13 +1,18 @@
 # github-actions-demo
 ## A repo to demonstrate the CI (Continous Integration) process as part of School of Tech.
 
-1. Clone the repo: ```git@github.com:School-Of-Tech-Futures-ATC/github-actions-demo.git```
+1. Clone the repo: 
+
+    ```git@github.com:School-Of-Tech-Futures-ATC/github-actions-demo.git```
+
 2. ```cd github-actions-demo```
 3. ```npm install```
 4. ```npm test```
 5. All tests should pass (total 5)
 6. Create a brand new GitHub repo and make note of its URL
-7. Set your local origin to that of the new repo ```git remote set-url origin git@github.com:<name_of_your_new_repo>.git```
+7. Set your local origin to that of the new repo
+    
+    ```git remote set-url origin git@github.com:<name_of_your_new_repo>.git```
 
 Example:
 ```
